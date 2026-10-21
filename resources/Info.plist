@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>local.voice.archive.opensource</string>
+<key>CFBundleName</key><string>Local Voice Archive</string>
+<key>CFBundleDisplayName</key><string>Local Voice Archive</string>
+<key>CFBundleExecutable</key><string>ArchiveVoice</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.1.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>LSMinimumSystemVersion</key><string>13.0</string>
+<key>NSMicrophoneUsageDescription</key><string>仅在你点击语音按钮后采集语音，用于本机合同检索与字段预览。</string>
+<key>NSSpeechRecognitionUsageDescription</key><string>使用Apple设备端中文识别；设备端不可用时停止，不回退云端识别。</string>
+<key>NSHighResolutionCapable</key><true/>
+</dict></plist>
